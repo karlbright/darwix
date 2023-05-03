@@ -1,0 +1,5 @@
+root = true;
+
+[*.nix];
+tab_style = space;
+tab_width = 2;
